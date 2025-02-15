@@ -1,0 +1,1 @@
+print ("A simple and user-friendly Python application that calculates a user's exact age in years, months, and days. This app uses the Tkinter library to provide a clean graphical user interface (GUI) with modern styling and easy-to-use features.")
